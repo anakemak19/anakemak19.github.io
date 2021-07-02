@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+body{
+    min-height: 2000px;
+    font-family: 'Nunito', sans-serif;
+
+}
+.shadow{
+    text-shadow:   rgba(0, 0, 0, 0.5);
+}
+
+.nav-link{
+    
+
+}
+
+.font{
+}
+.putih{
+    text-transform: uppercase;
+    position: relative;
+    border: 2px solid #fff;
+    padding: 3px;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+
+.nav-link:hover{
+    text-transform: uppercase;
+    position: relative;
+    border: 2px solid #fff;
+    padding: 3px;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.bungkus{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    top: 100px;
+}
+img.image{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+border: 5px solid cornsilk;
+margin-bottom: 10px;
+}
+.lebar{
+    width: 150px;
+    border-radius: 20px;
+    box-shadow: 0px 3px 1px blue;
+    margin-top: 20px;
+}
+.garis{
+    box-shadow: 5px 0 0 black;
+}
+.atas{
+    margin-top: 100px;
+}
+.size{
+font-size: 25px;
+}
+.about{
+    border-radius: 20px;
+    box-shadow: 0px 3px 1px blue;
+    margin-top: 40px;
+    width: 200px;
+}
+.kotak{
+    box-shadow: 2px 1px 3px #0066ff;
+    padding: 10px;
+}
+.kiri{
+    margin-top: 40px !important;
+    width: 15rem;
+    height: 12rem;
+}
+.kanan{
+    margin-left: -50px;
+}
+
+.kotak2{
+    border: white;
+    background: white;
+    box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.5), -2px -3px 2px rgba(0, 0, 0, 0.5);
+    position: relative;
+    margin-left: 20px;
+
+}
+.kotak3{
+    border: white;
+    background: white;
+    box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.5), -2px -3px 2px rgba(0, 0, 0, 0.5);
+    position: relative;
+    margin-left: 25px;
+}
+.menjorok{
+    position: absolute;
+    background: royalblue;
+    left: 0;
+    top: 15px;
+    transform: translate(-15%, 0);
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.5), -2px -3px 2px rgba(0, 0, 0, 0.5);
+}
+.sd{
+    margin-top: 50px;
+    font-size: 16px;
+}
+.tengah{
+    margin-top: -20px;
+}
+.anak{
+    margin-top: -18px;
+    font-size: 11px;
+}
+
+.jumbotron{
+    background-image: url(img/3.jpg);
+    background-size: cover;
+    height: 700px;
+    position: relative;
+    margin-right: -20px;
+}
+
+.footer{
+    height: 50px;
+    
+}
